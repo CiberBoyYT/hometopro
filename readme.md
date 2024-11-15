@@ -33,4 +33,6 @@ Then, depending on what is chosen in the choice, it performs different actions:
    6. Now, HomeToPro will reboot the system
    7. After the system boots, the activation process is started. It will use the same method as the activator to activate Windows.
    8. Finally, when the system is activated, it deletes itself, deletes the temporary files created by HomeToPro and reboots the system again. After that reboot, your Home edition is 
-      successfully upgraded to Pro and also activated
+      successfully upgraded to Pro and also activated.
+# Issues
+Right now, there aren't any known bugs in HomeToPro. If you find out any issue, create it in Issues. Thanks for your collaboration.
