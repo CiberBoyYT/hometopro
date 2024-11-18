@@ -35,4 +35,10 @@ Then, depending on what is chosen in the choice, it performs different actions:
    8. Finally, when the system is activated, it deletes itself, deletes the temporary files created by HomeToPro and reboots the system again. After that reboot, your Home edition is 
       successfully upgraded to Pro and also activated.
 # Issues
-Right now, there aren't any known bugs in HomeToPro. If you find out any issue, create it in Issues. Thanks for your collaboration.
+HomeToPro is currently open source. If you find any issue or have any suggestion, feel free to make a issue. If you rewrote some code and want me to check it, feel free to create an issue.
+All the issues in HomeToPro have been listed here.
+ISSUE 1:
+ - Description: A bug has been discovered in HomeToPro 0.2, which would jump to the next line of code even if the program was meant to close.
+ - Steps to repeat: Launch HomeToPro and select any option except exit. You will see how after you press a key, the program continues working instead of closing.
+ - Troubleshoot steps: Update to v0.3
+ - Additional INFO: I strongly recommend that you stop using v0.2 and download v0.3
