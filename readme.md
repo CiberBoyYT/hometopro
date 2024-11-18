@@ -36,8 +36,8 @@ Then, depending on what is chosen in the choice, it performs different actions:
       successfully upgraded to Pro and also activated.
 # Issues
 HomeToPro is currently open source. If you find any issue or have any suggestion, feel free to make a issue. If you rewrote some code and want me to check it, feel free to create an issue.
-All the issues in HomeToPro have been listed here.
-ISSUE 1:
+All the issues in HomeToPro have been listed here.\n
+__ISSUE 1:__
  - Description: A bug has been discovered in HomeToPro 0.2, which would jump to the next line of code even if the program was meant to close.
  - Steps to repeat: Launch HomeToPro and select any option except exit. You will see how after you press a key, the program continues working instead of closing.
  - Troubleshoot steps: Update to v0.3
