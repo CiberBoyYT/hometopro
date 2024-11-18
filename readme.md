@@ -7,7 +7,6 @@ HomeToPro currently has 3 modes:
  - Upgrader: This mode performs an upgrade from the Home edition to the Pro edition.
  - Upgrader with activator: This is the most complex mode. It upgrades the system and then activates it.
 # Download
-<button name="button" onclick="https://github.com/CiberBoyYT/hometopro/releases">Get HomeToPro</button>
 Right now, you can downlaod HomeToPro in 2 forms
  - Batch file: It is a file that runs HomeToPro directly.
  - Executable file (.exe): It is the same as the Batch file. The batch file is compressed inside the EXE and the EXE copies it to the temp folder and then runs it.
