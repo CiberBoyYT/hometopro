@@ -10,6 +10,7 @@ HomeToPro currently has 3 modes:
 Right now, you can downlaod HomeToPro in 2 forms
  - Batch file: It is a file that runs HomeToPro directly.
  - Executable file (.exe): It is the same as the Batch file. The batch file is compressed inside the EXE and the EXE copies it to the temp folder and then runs it.
+Download the lastest release from here: https://github.com/CiberBoyYT/hometopro/releases
 Both offer the same features, it depends on what you prefer.
 Most people prefer the Batch file, as you can review the code inside and it is more lightweight than the exe file.
 You can download HomeToPro from the Releases page.
